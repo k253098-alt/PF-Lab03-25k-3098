@@ -11,4 +11,4 @@
 + Tomatos
 + Patatos
 
-*** We should scrifice for our country ***\
+***We should sacrifice for our country***\
