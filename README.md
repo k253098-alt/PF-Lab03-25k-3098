@@ -1,8 +1,8 @@
 # Steps for a student to became a brillient student
-1 Time managment 
-2 Consistency
-3 Actively engage in class
-4 Always to achive big goals 
+1. Time managment
+2. Consistency
+3. Actively engage in classes
+4. Always aim to achive big goals  
 ## Grossery list 
 - Rice
 - Suger
@@ -10,5 +10,4 @@
 + Soya sos
 + Tomatos
 + Patatos
-*** We should scrifice for our country ***
-  
+*** We should scrifice for our country ***\
